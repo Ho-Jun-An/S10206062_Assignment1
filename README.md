@@ -50,11 +50,12 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Credits
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+w3schools navigation bar:
+https://www.w3schools.com/howto/howto_js_topnav.asp
 
 ### Media
-- The photos used in this site were obtained from ...
+Images displayed in my Instagram:
+
 
 ### Acknowledgements
 
