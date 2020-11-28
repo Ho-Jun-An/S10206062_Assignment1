@@ -54,8 +54,10 @@ w3schools navigation bar:
 https://www.w3schools.com/howto/howto_js_topnav.asp
 
 ### Media
-Images displayed in my Instagram:
-
+Images displayed in my Instagram (But linked from Discord):
+https://www.instagram.com/the_purple_emerald/
+Normalize.css:
+https://necolas.github.io/normalize.css/
 
 ### Acknowledgements
 
